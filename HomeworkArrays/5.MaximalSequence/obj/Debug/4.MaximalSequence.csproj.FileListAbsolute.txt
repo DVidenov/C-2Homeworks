@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\5.MaximalSequence\bin\Debug\5.MaximalSequence.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\5.MaximalSequence\bin\Debug\5.MaximalSequence.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\5.MaximalSequence\bin\Debug\5.MaximalSequence.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\5.MaximalSequence\obj\Debug\4.MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\5.MaximalSequence\obj\Debug\5.MaximalSequence.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\5.MaximalSequence\obj\Debug\5.MaximalSequence.pdb

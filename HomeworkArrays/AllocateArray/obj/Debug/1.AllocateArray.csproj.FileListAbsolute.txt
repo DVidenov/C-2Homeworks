@@ -1,0 +1,3 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\AllocateArray\obj\Debug\AllocateArray.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\AllocateArray\obj\Debug\AllocateArray.pdb

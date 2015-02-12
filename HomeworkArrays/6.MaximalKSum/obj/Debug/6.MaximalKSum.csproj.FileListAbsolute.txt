@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\6.MaximalKSum\bin\Debug\6.MaximalKSum.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\6.MaximalKSum\bin\Debug\6.MaximalKSum.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\6.MaximalKSum\bin\Debug\6.MaximalKSum.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\6.MaximalKSum\obj\Debug\6.MaximalKSum.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\6.MaximalKSum\obj\Debug\6.MaximalKSum.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\6.MaximalKSum\obj\Debug\6.MaximalKSum.csprojResolveAssemblyReference.cache

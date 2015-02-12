@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\3.CompareCharArrays\bin\Debug\3.CompareCharArrays.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\3.CompareCharArrays\bin\Debug\3.CompareCharArrays.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\3.CompareCharArrays\bin\Debug\3.CompareCharArrays.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\3.CompareCharArrays\obj\Debug\3.CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\3.CompareCharArrays\obj\Debug\3.CompareCharArrays.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\3.CompareCharArrays\obj\Debug\3.CompareCharArrays.pdb

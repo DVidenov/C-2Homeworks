@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\9.FrequentNumber\bin\Debug\9.FrequentNumber.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\9.FrequentNumber\bin\Debug\9.FrequentNumber.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\9.FrequentNumber\bin\Debug\9.FrequentNumber.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\9.FrequentNumber\obj\Debug\9.FrequentNumber.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkArrays\9.FrequentNumber\obj\Debug\9.FrequentNumber.pdb
