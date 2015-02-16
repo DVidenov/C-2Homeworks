@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\4.BinarySearch\bin\Debug\4.BinarySearch.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\4.BinarySearch\bin\Debug\4.BinarySearch.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\4.BinarySearch\bin\Debug\4.BinarySearch.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\4.BinarySearch\obj\Debug\4.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\4.BinarySearch\obj\Debug\4.BinarySearch.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\4.BinarySearch\obj\Debug\4.BinarySearch.pdb

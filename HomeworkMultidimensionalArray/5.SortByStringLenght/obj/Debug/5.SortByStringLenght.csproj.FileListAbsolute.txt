@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\5.SortByStringLenght\bin\Debug\5.SortByStringLenght.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\5.SortByStringLenght\bin\Debug\5.SortByStringLenght.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\5.SortByStringLenght\bin\Debug\5.SortByStringLenght.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\5.SortByStringLenght\obj\Debug\5.SortByStringLenght.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\5.SortByStringLenght\obj\Debug\5.SortByStringLenght.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\3.SequenceNMatrix\bin\Debug\3.SequenceNMatrix.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\3.SequenceNMatrix\bin\Debug\3.SequenceNMatrix.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\3.SequenceNMatrix\bin\Debug\3.SequenceNMatrix.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\3.SequenceNMatrix\obj\Debug\3.SequenceNMatrix.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\3.SequenceNMatrix\obj\Debug\3.SequenceNMatrix.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Solution1\3.SequenceNMatrix\obj\Debug\3.SequenceNMatrix.csprojResolveAssemblyReference.cache
