@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\1.SayHello\bin\Debug\1.SayHello.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\1.SayHello\bin\Debug\1.SayHello.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\1.SayHello\bin\Debug\1.SayHello.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\1.SayHello\obj\Debug\1.SayHello.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\1.SayHello\obj\Debug\1.SayHello.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\1.SayHello\obj\Debug\1.SayHello.pdb

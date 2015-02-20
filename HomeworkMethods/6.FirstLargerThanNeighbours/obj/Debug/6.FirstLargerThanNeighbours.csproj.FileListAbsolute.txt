@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\6.FirstLargerThanNeighbours\bin\Debug\6.FirstLargerThanNeighbours.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\6.FirstLargerThanNeighbours\bin\Debug\6.FirstLargerThanNeighbours.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\6.FirstLargerThanNeighbours\bin\Debug\6.FirstLargerThanNeighbours.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\6.FirstLargerThanNeighbours\obj\Debug\6.FirstLargerThanNeighbours.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\6.FirstLargerThanNeighbours\obj\Debug\6.FirstLargerThanNeighbours.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\7.ReverseNumber\bin\Debug\7.ReverseNumber.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\7.ReverseNumber\bin\Debug\7.ReverseNumber.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\7.ReverseNumber\bin\Debug\7.ReverseNumber.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\7.ReverseNumber\obj\Debug\7.ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\7.ReverseNumber\obj\Debug\7.ReverseNumber.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\7.ReverseNumber\obj\Debug\7.ReverseNumber.pdb

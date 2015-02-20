@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\4.AppearanceCount\bin\Debug\4.AppearanceCount.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\4.AppearanceCount\bin\Debug\4.AppearanceCount.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\4.AppearanceCount\bin\Debug\4.AppearanceCount.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\4.AppearanceCount\obj\Debug\4.AppearanceCount.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\4.AppearanceCount\obj\Debug\4.AppearanceCount.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\4.AppearanceCount\obj\Debug\4.AppearanceCount.pdb

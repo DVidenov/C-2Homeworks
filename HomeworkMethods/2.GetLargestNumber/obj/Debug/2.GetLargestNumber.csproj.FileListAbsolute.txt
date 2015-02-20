@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\2.GetLargestNumber\bin\Debug\2.GetLargestNumber.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\2.GetLargestNumber\bin\Debug\2.GetLargestNumber.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\2.GetLargestNumber\bin\Debug\2.GetLargestNumber.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\2.GetLargestNumber\obj\Debug\2.GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\2.GetLargestNumber\obj\Debug\2.GetLargestNumber.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkMethods\2.GetLargestNumber\obj\Debug\2.GetLargestNumber.pdb
