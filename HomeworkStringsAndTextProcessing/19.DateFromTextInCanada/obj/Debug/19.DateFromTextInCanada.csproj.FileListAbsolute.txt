@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\19.DateFromTextInCanada\bin\Debug\19.DateFromTextInCanada.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\19.DateFromTextInCanada\bin\Debug\19.DateFromTextInCanada.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\19.DateFromTextInCanada\bin\Debug\19.DateFromTextInCanada.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\19.DateFromTextInCanada\obj\Debug\19.DateFromTextInCanada.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\19.DateFromTextInCanada\obj\Debug\19.DateFromTextInCanada.pdb

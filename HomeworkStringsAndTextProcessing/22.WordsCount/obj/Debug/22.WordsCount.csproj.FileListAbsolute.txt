@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\22.WordsCount\bin\Debug\22.WordsCount.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\22.WordsCount\obj\Debug\22.WordsCount.pdb

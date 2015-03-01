@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\3.CorrectBrackets\bin\Debug\3.CorrectBrackets.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\3.CorrectBrackets\bin\Debug\3.CorrectBrackets.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\3.CorrectBrackets\bin\Debug\3.CorrectBrackets.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\3.CorrectBrackets\obj\Debug\3.CorrectBrackets.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\3.CorrectBrackets\obj\Debug\3.CorrectBrackets.pdb

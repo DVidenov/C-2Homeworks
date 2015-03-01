@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\23.SeriesOfLetters\obj\Debug\23.SeriesOfLetters.pdb

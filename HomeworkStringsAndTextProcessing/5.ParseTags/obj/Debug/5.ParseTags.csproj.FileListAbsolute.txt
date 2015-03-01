@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\5.ParseTags\bin\Debug\5.ParseTags.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\5.ParseTags\obj\Debug\5.ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\5.ParseTags\bin\Debug\5.ParseTags.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\5.ParseTags\bin\Debug\5.ParseTags.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\5.ParseTags\obj\Debug\5.ParseTags.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\5.ParseTags\obj\Debug\5.ParseTags.pdb

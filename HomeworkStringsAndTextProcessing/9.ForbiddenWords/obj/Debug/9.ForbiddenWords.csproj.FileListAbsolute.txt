@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\9.ForbiddenWords\bin\Debug\9.ForbiddenWords.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\9.ForbiddenWords\obj\Debug\9.ForbiddenWords.pdb

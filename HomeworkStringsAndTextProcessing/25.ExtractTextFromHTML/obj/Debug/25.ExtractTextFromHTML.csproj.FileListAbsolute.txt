@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\25.ExtractTextFromHTML\bin\Debug\25.ExtractTextFromHTML.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\25.ExtractTextFromHTML\obj\Debug\25.ExtractTextFromHTML.pdb

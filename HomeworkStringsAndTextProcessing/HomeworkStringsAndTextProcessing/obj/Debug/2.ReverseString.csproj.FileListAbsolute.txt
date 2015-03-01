@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\HomeworkStringsAndTextProcessing\bin\Debug\HomeworkStringsAndTextProcessing.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\HomeworkStringsAndTextProcessing\bin\Debug\HomeworkStringsAndTextProcessing.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\HomeworkStringsAndTextProcessing\bin\Debug\HomeworkStringsAndTextProcessing.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\HomeworkStringsAndTextProcessing\obj\Debug\2.ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\HomeworkStringsAndTextProcessing\obj\Debug\HomeworkStringsAndTextProcessing.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\HomeworkStringsAndTextProcessing\obj\Debug\HomeworkStringsAndTextProcessing.pdb

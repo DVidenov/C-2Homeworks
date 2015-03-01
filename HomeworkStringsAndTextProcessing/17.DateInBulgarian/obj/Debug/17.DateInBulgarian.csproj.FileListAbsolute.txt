@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\17.DateInBulgarian\bin\Debug\17.DateInBulgarian.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkStringsAndTextProcessing\17.DateInBulgarian\obj\Debug\17.DateInBulgarian.pdb
