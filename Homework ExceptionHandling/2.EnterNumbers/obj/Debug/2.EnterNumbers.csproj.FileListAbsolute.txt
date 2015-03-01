@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Homework ExceptionHandling\2.EnterNumbers\bin\Debug\2.EnterNumbers.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Homework ExceptionHandling\2.EnterNumbers\bin\Debug\2.EnterNumbers.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Homework ExceptionHandling\2.EnterNumbers\bin\Debug\2.EnterNumbers.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Homework ExceptionHandling\2.EnterNumbers\obj\Debug\2.EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Homework ExceptionHandling\2.EnterNumbers\obj\Debug\2.EnterNumbers.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\Homework ExceptionHandling\2.EnterNumbers\obj\Debug\2.EnterNumbers.pdb
