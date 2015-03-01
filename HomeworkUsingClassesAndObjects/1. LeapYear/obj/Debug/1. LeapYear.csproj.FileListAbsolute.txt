@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\1. LeapYear\bin\Debug\_1.LeapYear.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\1. LeapYear\bin\Debug\_1.LeapYear.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\1. LeapYear\bin\Debug\_1.LeapYear.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\1. LeapYear\obj\Debug\1. LeapYear.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\1. LeapYear\obj\Debug\_1.LeapYear.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\1. LeapYear\obj\Debug\_1.LeapYear.pdb

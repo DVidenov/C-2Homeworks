@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\6.SumIntegers\bin\Debug\6.SumIntegers.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\6.SumIntegers\bin\Debug\6.SumIntegers.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\6.SumIntegers\bin\Debug\6.SumIntegers.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\6.SumIntegers\obj\Debug\6.SumIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\6.SumIntegers\obj\Debug\6.SumIntegers.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\6.SumIntegers\obj\Debug\6.SumIntegers.pdb

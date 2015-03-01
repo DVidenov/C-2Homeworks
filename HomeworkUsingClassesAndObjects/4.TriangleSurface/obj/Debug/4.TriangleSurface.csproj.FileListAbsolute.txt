@@ -1,0 +1,6 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\4.TriangleSurface\bin\Debug\4.TriangleSurface.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\4.TriangleSurface\obj\Debug\4.TriangleSurface.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\NumeralSystems\7.OneSystemToAnyOther\bin\Debug\7.OneSystemToAnyOther.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\NumeralSystems\7.OneSystemToAnyOther\bin\Debug\7.OneSystemToAnyOther.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\NumeralSystems\7.OneSystemToAnyOther\bin\Debug\7.OneSystemToAnyOther.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\NumeralSystems\7.OneSystemToAnyOther\obj\Debug\7.OneSystemToAnyOther.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\NumeralSystems\7.OneSystemToAnyOther\obj\Debug\7.OneSystemToAnyOther.pdb

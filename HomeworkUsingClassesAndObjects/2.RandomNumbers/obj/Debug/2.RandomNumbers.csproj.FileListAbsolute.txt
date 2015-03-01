@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\2.RandomNumbers\bin\Debug\2.RandomNumbers.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\2.RandomNumbers\bin\Debug\2.RandomNumbers.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\2.RandomNumbers\bin\Debug\2.RandomNumbers.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\2.RandomNumbers\obj\Debug\2.RandomNumbers.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkUsingClassesAndObjects\2.RandomNumbers\obj\Debug\2.RandomNumbers.pdb
