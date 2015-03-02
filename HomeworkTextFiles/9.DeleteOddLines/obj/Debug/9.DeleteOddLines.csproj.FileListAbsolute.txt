@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\9.DeleteOddLines\bin\Debug\9.DeleteOddLines.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\9.DeleteOddLines\bin\Debug\9.DeleteOddLines.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\9.DeleteOddLines\bin\Debug\9.DeleteOddLines.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\9.DeleteOddLines\obj\Debug\9.DeleteOddLines.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\9.DeleteOddLines\obj\Debug\9.DeleteOddLines.pdb

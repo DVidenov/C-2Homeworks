@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\10.ExtractTextFromXML\bin\Debug\10.ExtractTextFromXML.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\10.ExtractTextFromXML\obj\Debug\10.ExtractTextFromXML.pdb

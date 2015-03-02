@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\11.PrefixTest\bin\Debug\11.PrefixTest.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\11.PrefixTest\obj\Debug\11.PrefixTest.pdb

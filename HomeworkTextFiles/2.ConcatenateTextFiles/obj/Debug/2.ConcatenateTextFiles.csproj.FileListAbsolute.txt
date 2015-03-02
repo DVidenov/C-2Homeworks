@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\2.ConcatenateTextFiles\bin\Debug\2.ConcatenateTextFiles.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\2.ConcatenateTextFiles\bin\Debug\2.ConcatenateTextFiles.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\2.ConcatenateTextFiles\bin\Debug\2.ConcatenateTextFiles.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\2.ConcatenateTextFiles\obj\Debug\2.ConcatenateTextFiles.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\2.ConcatenateTextFiles\obj\Debug\2.ConcatenateTextFiles.pdb

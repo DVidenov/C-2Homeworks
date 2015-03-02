@@ -1,0 +1,5 @@
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\7.ReplaceSubString\bin\Debug\7.ReplaceSubString.exe.config
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\7.ReplaceSubString\bin\Debug\7.ReplaceSubString.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\7.ReplaceSubString\bin\Debug\7.ReplaceSubString.pdb
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\7.ReplaceSubString\obj\Debug\7.ReplaceSubString.exe
+C:\Users\Yanko\Desktop\TelerikC#2Homeworks\HomeworkTextFiles\7.ReplaceSubString\obj\Debug\7.ReplaceSubString.pdb
